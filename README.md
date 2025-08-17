@@ -89,7 +89,7 @@
  <br>
    ${\textsf{\color{#d6bfc3}I'm still the same person (of course), but may act slightly different!}}$
 <br>
-${\textsf{\color{#e09bba} I'll usually hang out around}}$ <i>TMC area/Docks</i> ${\textsf{\color{#e09bba} whenver this git is in use!}}$ 
+${\textsf{\color{#e09bba} I'll usually hang out around}}$ <i>FNF area/Bakery</i> ${\textsf{\color{#e09bba} whenver this git is in use!}}$ 
 
 <img src="https://64.media.tumblr.com/77c1bb11ffd9dda32896d6b1990963fa/86053b747a82ca38-82/s250x400/e89d37b6851df94d0a1016d1c373aa034afe4b44.pnj" width="85" align="center"></a>
 
