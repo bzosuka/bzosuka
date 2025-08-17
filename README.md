@@ -55,7 +55,7 @@
           <div align="center">
            
 <img src="https://64.media.tumblr.com/54036728b5d528163ab429a09de48f01/992b39b6ab3235eb-47/s100x200/f864d3d0848d565b5296396f09d0dc50b60ab741.webp" width="20" height="10%"></a>  ${\textsf{\color{#d7b3b1}Do NOT Interact!}}$ <img src="https://64.media.tumblr.com/54036728b5d528163ab429a09de48f01/992b39b6ab3235eb-47/s100x200/f864d3d0848d565b5296396f09d0dc50b60ab741.webp" width="20" height="10%"></a> 
-<p align="center"><kbd><br>$\color{#f47e8d}{\textsf{Basic DNI criteria, Alternate skins (don't be weird!)}}$<br><br> $\color{#f47e8d}{\textsf{Endo/Tupla/Demo "systems"/Mental health fakers}}$<br>$\color{#f47e8d}{\textsf{is an instant block! All ships too! (dniuid)}}$<br><br>$\color{#f47e8d}{\textsf{Under 16 (please don't lie abour your age!)}}$<br>&nbsp;  </kbd></p>
+<p align="center"><kbd><br>$\color{#f47e8d}{\textsf{Basic DNI criteria, Alternate skins (don't be weird!)}}$<br><br> $\color{#f47e8d}{\textsf{Endo/Tupla/Demo "systems"/Mental health fakers}}$<br>$\color{#f47e8d}{\textsf{is an instant block! All ships too! (dniuid)}}$<br><br>$\color{#f47e8d}{\textsf{Under 12 (please don't lie abour your age!)}}$<br>&nbsp;  </kbd></p>
 
  <br>
     </td>
